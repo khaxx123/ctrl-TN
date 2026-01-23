@@ -72,15 +72,6 @@ The project includes district-level and state-wide dashboards covering:
 - Implementation timelines
 - Policy impact projections
 
-### Dashboard Previews
-
-![Chennai Dashboard](dashboards/CHENNAI.png)
-![Kancheepuram Dashboard](dashboards/KANCHEEPURAM.png)
-![Salem Dashboard](dashboards/SALEM.png)
-![Thiruvallur Dashboard](dashboards/THIRUVALLUR.png)
-![State-Wide Impact](dashboards/STATE_WIDE_IMPACT.png)
-![Tamil Nadu Overview](dashboards/TAMIL_NADU_AADHAAR_ANALYTICS.png)
-
 ---
 
 ## 🧪 Methodology
